@@ -56,3 +56,18 @@ This project demonstrates full-stack development, REST API design, authenticatio
 **Mohammed Rifadh**
 
 Aspiring Software Engineer | C# | ASP.NET Core | React | SQL Server
+
+## Application Screenshots
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Agent Dashboard
+
+![Agent Dashboard](screenshots/agent-dashboard.png)
+
+### Employee Dashboard
+
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
