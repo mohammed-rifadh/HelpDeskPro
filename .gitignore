@@ -1,0 +1,20 @@
+
+# ASP.NET Core
+**/bin/
+**/obj/
+.vs/
+*.user
+
+# React
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and database backups
+*.log
+*.bak
