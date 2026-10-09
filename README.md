@@ -61,13 +61,13 @@ Aspiring Software Engineer | C# | ASP.NET Core | React | SQL Server
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png.png)
 
 ### Agent Dashboard
 
-![Agent Dashboard](screenshots/agent-dashboard.png)
+![Agent Dashboard](./screenshots/agent-dashboard.png.png)
 
 ### Employee Dashboard
 
-![Employee Dashboard](screenshots/employee-dashboard.png)
+![Employee Dashboard](./screenshots/employee-dashboard.png.png)
 
